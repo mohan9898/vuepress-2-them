@@ -1,8 +1,8 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/",
   "/": [
+    "/",
     {
       text: "U盘手册",
       icon: "newspaper",
