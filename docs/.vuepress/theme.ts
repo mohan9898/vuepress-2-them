@@ -29,6 +29,8 @@ export default hopeTheme({
 
   // page meta
     editLink: false,
+    contributors: false,
+    lastupdate: false,
 
   plugins: {
     // You should generate and use your own comment service
