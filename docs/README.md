@@ -19,7 +19,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: U盘为多系统操作，所以启动方法使用了其他技术，选择相对应的系统后安装和操作和官方系统盘一样。
-      - title: 系统在可以正常进入桌面的情况下不在提供服务，基本情况下问题都已百度解决！！！
+      - title: 系统在可以正常进入桌面的情况下不在提供服务，基本情况下问题都可以自行百度解决！！！
 copyright: false
 footer: 惊涵网络-玖司恒
 ---
