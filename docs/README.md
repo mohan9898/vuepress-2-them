@@ -19,6 +19,12 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: U盘为多系统操作，所以启动方法使用了其他技术，选择相对应的系统后安装和操作和官方系统盘一样。
+- header: 告知！！！
+    image: /assets/image/box.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    highlights:
+      - title: 本U盘系统可正常安装，提供一次安装支持服务，装好系统可以正常进入桌面情况下，不在提供其他服务
 copyright: false
 footer: 惊涵网络-玖司恒
 ---
