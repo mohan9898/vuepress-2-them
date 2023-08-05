@@ -19,24 +19,20 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: U盘为多系统操作，所以启动方法使用了其他技术，选择相对应的系统后安装和操作和官方系统盘一样。
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
-    image: /assets/image/markdown.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+header: 新功能
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: 链接检查
-        icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+      - title: 浏览量与评论
+        icon: comment-dots
+        details: 配合 Waline 来开启阅读量统计与评论支持
+        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
 
-      - title: 自定义容器支持
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+      - title: 文章信息
+        icon: circle-info
+        details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
+        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
 copyright: false
 footer: 惊涵网络-玖司恒
 ---
