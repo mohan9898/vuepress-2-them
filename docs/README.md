@@ -19,7 +19,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: U盘为多系统操作，所以启动方法使用了其他技术，选择相对应的系统后安装和操作和官方系统盘一样。
-header: 新功能
+  -header: 新功能
     image: /assets/image/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
