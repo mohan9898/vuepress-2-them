@@ -13,26 +13,13 @@ actions:
     link: /guide/产品前言.html
     type: primary
 highlights:
-  - header: U盘启动
-    image: /assets/image/box.svg
+  - header: 通知
+    image: /assets/image/gaozhi.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: U盘为多系统操作，所以启动方法使用了其他技术，选择相对应的系统后安装和操作和官方系统盘一样。
-  - header: 新功能
-    image: /assets/image/gaozhi.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    features:
-      - title: 浏览量与评论
-        icon: comment-dots
-        details: 配合 Waline 来开启阅读量统计与评论支持
-        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
-
-      - title: 文章信息
-        icon: circle-info
-        details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
-        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+      - title: 系统在可以正常进入桌面的情况下不在提供服务，基本情况下问题都已百度解决！！！
 copyright: false
 footer: 惊涵网络-玖司恒
 ---
