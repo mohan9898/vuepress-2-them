@@ -13,7 +13,7 @@ actions:
     link: /guide/upan/产品前言.html
     type: primary
 highlights:
-  - header: 通知
+  - header: 告知
     image: /assets/image/gaozhi.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
