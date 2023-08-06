@@ -1,13 +1,13 @@
 ---
 home: true
 icon: home
-title: 惊涵系统U盘
+title: 惊涵重装系统U盘
 heroImage: https://sihengl.gitee.io/jinghan/logo/Upan.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
 background-attachment: fixed
-heroText: 惊涵系统U盘
+heroText: 惊涵重装系统U盘
 actions: 
   - text: 开始阅读 →
     link: /guide/upan/产品前言.html
