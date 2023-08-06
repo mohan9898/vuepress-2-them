@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://wiki.inte.cab",
 
   author: {
-    name: "惊涵网络",
+    name: "惊涵科技",
     url: "/",
   },
 
@@ -22,7 +22,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "惊涵网络-玖司恒",
+  footer: "惊涵科技-玖司恒",
 
   displayFooter: true,
 
