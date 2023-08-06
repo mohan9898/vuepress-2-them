@@ -13,7 +13,7 @@ export default sidebar({
     {
       text: "文件使用",
       collapsible: "true",
-      icon: "fa-files",
+      icon: "files",
       prefix: "/guide/file/",
       children: ['系统镜像下载',],
     },
