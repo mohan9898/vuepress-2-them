@@ -10,7 +10,7 @@ background-attachment: fixed
 heroText: 惊涵系统U盘
 actions: 
   - text: 开始阅读 →
-    link: /guide/产品前言.html
+    link: /guide/upan/产品前言.html
     type: primary
 highlights:
   - header: 通知
