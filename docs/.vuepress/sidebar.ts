@@ -4,7 +4,7 @@ export default sidebar({
   "/": [
     "/",
     {
-        text: "指南",
+        text: "产品前言",
         link: "/guide/upan/产品前言.md",
         icon: "lightbulb", 
       },
