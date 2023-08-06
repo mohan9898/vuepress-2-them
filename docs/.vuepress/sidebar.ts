@@ -4,11 +4,16 @@ export default sidebar({
   "/": [
     "/",
     {
+        text: "指南",
+        link: "/guide/upan/产品前言.md",
+        icon: "lightbulb", 
+      },
+    {
       text: "U盘手册",
       collapsible: "true",
       icon: "newspaper",
       prefix: "/guide/upan/",
-      children: ['产品前言', '操作手册','激活工具使用','安装注意',],
+      children: ['操作手册','激活工具使用','安装注意',],
     },
     {
       text: "文件使用",
