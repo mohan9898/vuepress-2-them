@@ -9,7 +9,7 @@ bgImageStyle:
 background-attachment: fixed
 heroText: 惊涵重装系统U盘
 actions: 
-  - text: 开始阅读 →
+  - text: 开始使用 →
     link: /guide/upan/产品前言.html
     type: primary
 highlights:
