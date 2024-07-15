@@ -28,7 +28,7 @@ export default defineUserConfig({
   }),
   base: "/",
   title: '惊涵系统U盘',
-  head: [['link', { rel: 'icon', href: 'https://sihengl.gitee.io/jinghan/logo/Upan.png' }]],
+  head: [['link', { rel: 'icon', href: 'https://raw.gitmirror.com/mohan9898/jinghan/main/win/logo/Upan.svg' }]],
   theme,
 
   // Enable it with pwa
