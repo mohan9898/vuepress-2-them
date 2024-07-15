@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://sihengl.gitee.io/jinghan/logo/Upan.png",
+  logo: "https://raw.gitmirror.com/mohan9898/jinghan/main/win/logo/Upan.png",
 
   docsDir: "src",
 
