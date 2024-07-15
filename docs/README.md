@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 惊涵重装系统U盘
-heroImage: https://sihengl.gitee.io/jinghan/logo/Upan.png
+heroImage: https://raw.gitmirror.com/mohan9898/jinghan/blob/main/win/logo/Upan.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
